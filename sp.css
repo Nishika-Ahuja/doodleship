@@ -15,7 +15,7 @@ margin: 0px;
     position: absolute;
     margin: 0px;
     top: -0.5%;
-    color: red;
+    color: rgb(230, 229, 229);
     font-size:3.8vw;
     font-family: Fantasy;
 
@@ -23,7 +23,7 @@ margin: 0px;
 
 .info>p>span
 {
-    color: LightGreen;
+    color:rgb(230, 229, 229);
 }
 
 .game-window

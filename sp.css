@@ -1,3 +1,4 @@
+
 body
 {
 background-image: url('bp.png');
@@ -50,4 +51,14 @@ margin: 0px;
     border: 2px Solid Red;
     margin: 0px;
     z-index: -1;
+}
+
+.robo .shield-robot {
+    position: absolute;
+    background-color: red;
+    height: 37px;
+    width: 5vw;
+    top: 9vh;
+    border: 2px solid yellow;
+    margin: 0;
 }
